@@ -3,7 +3,7 @@
 
 Spotiphish is a music searcher, downloader, and player.
 
-![](header.png)
+![](header.PNG)
 
 ## Installation
 
